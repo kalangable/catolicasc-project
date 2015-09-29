@@ -9,7 +9,7 @@ public class Creme extends CafeDecorator {
 	@Override
 	public float getPreco() {
 		// TODO Auto-generated method stub
-		return 1.10f + super.getPreco();
+		return 1.15f + super.getPreco();
 	}
 
 	@Override

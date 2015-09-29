@@ -8,7 +8,7 @@ public class Acucar extends CafeDecorator {
 
 	@Override
 	public float getPreco() {
-		return 0.3f + super.getPreco();
+		return 0.30f + super.getPreco();
 	}
 
 	@Override
